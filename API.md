@@ -139,6 +139,38 @@ The following _webhook_ endpoints are used to get or set the webhook that will b
 * ReadReceipt
 * HistorySync
 * ChatPresence
+* UndecryptableMessage
+* CallOffer
+* CallAccept
+* CallTerminate
+* CallOfferNotice
+* CallRelayLatency
+* Disconnected
+* ConnectFailure
+* UndecryptableMessage
+* MediaRetry
+* GroupInfo
+* JoinedGroup
+* Picture
+* BlocklistChange
+* Blocklist
+* KeepAliveRestored
+* KeepAliveTimeout
+* ClientOutdated
+* TemporaryBan
+* StreamError
+* PairError
+* PrivacySettings
+* UserAbout
+* OfflineSyncCompleted
+* OfflineSyncPreview
+* IdentityChange
+* NewsletterJoin
+* NewsletterLeave
+* NewsletterMuteChange
+* NewsletterLiveUpdate
+* FBMessage
+
 
 
 ## Sets webhook
